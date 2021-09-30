@@ -1,2 +1,2 @@
-# wordplay-Infinity
-It's a chrome extension that displays new one-liner everytime you click it. 
+# Dad-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
